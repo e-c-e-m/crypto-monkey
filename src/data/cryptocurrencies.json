@@ -1,0 +1,66 @@
+{
+    "cryptocurrencies": {
+        "currency": [
+            {
+                "id": "1",
+                "symbol": "BTC",
+                "name": "Bitcoin",
+                "info": "Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper by a person, or group of people, using the alias Satoshi Nakamoto. It was launched soon after, in January 2009.Bitcoin is a peer-to-peer online currency, meaning that all transactions happen directly between equal, independent network participants, without the need for any intermediary to permit or facilitate them. Bitcoin was created, according to Nakamoto’s own words, to allow “online payments to be sent directly from one party to another without going through a financial institution.” Some concepts for a similar type of a decentralized electronic currency precede BTC, but Bitcoin holds the distinction of being the first-ever cryptocurrency to come into actual use."
+            },
+            {
+                "id": "2",
+                "symbol": "ETH",
+                "name": "Ethereum",
+                "info": "Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts. Ethereum was first described in a 2013 whitepaper by Vitalik Buterin. Buterin, along with other co-founders, secured funding for the project in an online public crowd sale in the summer of 2014 and officially launched the blockchain on July 30, 2015. Ethereum’s own purported goal is to become a global platform for decentralized applications, allowing users from all over the world to write and run software that is resistant to censorship, downtime and fraud."
+            },
+            {
+                "id": "3",
+                "symbol": "LINK",
+                "name": "Chainlink",
+                "info": "Chainlink (LINK) is a decentralized oracle network which aims to connect smart contracts with data from the real world. Chainlink was developed by Sergey Nazarov, with Steve Ellis as the other co-founder. It held an ICO in September 2017, raising $32 million, with a total supply of 1 billion LINK tokens. LINK, the cryptocurrency native to the Chainlink decentralized oracle network, is used to pay node operators. Since the Chainlink network has a reputation system, node providers that have a large amount of LINK can be rewarded with larger contracts, while a failure to deliver accurate information results in a deduction of tokens. Developers describe LINK as “an ERC20 token, with the additional ERC223 'transfer and call' functionality of transfer (address, uint256, bytes), allowing tokens to be received and processed by contracts within a single transaction.” Following the 2017 $32 million LINK ICO, 32 percent of LINK tokens were sent to node operators to incentivize the ecosystem and 30 percent stayed within Chainlink for development (35 percent were sold in the public token sale)."
+            },
+            {
+                "id": "4",
+                "symbol": "ADA",
+                "name": "Cardano",
+                "info": "Cardano is a proof-of-stake blockchain platform that says its goal is to allow “changemakers, innovators and visionaries” to bring about positive global change. The open-source project also aims to “redistribute power from unaccountable structures to the margins to individuals” — helping to create a society that is more secure, transparent and fair. Cardano was founded back in 2017, and the ADA token is designed to ensure that owners can participate in the operation of the network. Because of this, those who hold the cryptocurrency have the right to vote on any proposed changes to the software. The team behind the layered blockchain say that there have already been some compelling use cases for its technology, which aims to allow decentralized apps and smart contracts to be developed with modularity. Cardano is used by agricultural companies to track fresh produce from field to fork, while other products built on the platform allow educational credentials to be stored in a tamper-proof way, and retailers to clamp down on counterfeit goods."
+            },
+            {
+                "id": "5",
+                "symbol": "BNB",
+                "name": "Binance Coin",
+                "info": "BNB was launched through an initial coin offering in 2017, 11 days before the Binance cryptocurrency exchange went online. It was originally issued as an ERC-20 token running on the Ethereum network, with a total supply capped at 200 million coins, and 100 million BNBs offered in the ICO. However, the ERC-20 BNB coins were swapped with BEP2 BNB on a 1:1 ratio in April 2019 with the launch of the Binance Chain mainnet, and are now no longer hosted on Ethereum. BNB can be used as a payment method, a utility token to pay for fees on the Binance exchange and for participation in token sales on the Binance launchpad. BNB also powers the Binance DEX (decentralized exchange)."
+            },
+            {
+                "id": "6",
+                "symbol": "DOT",
+                "name": "Polkadot",
+                "info": "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.This interoperability seeks to establish a fully decentralized and private web, controlled by its users, and simplify the creation of new applications, institutions and services. The Polkadot protocol connects public and private chains, permissionless networks, oracles and future technologies, allowing these independent blockchains to trustlessly share information and transactions through the Polkadot relay chain (explained further down). Polkadot’s native DOT token serves three clear purposes: providing network governance and operations, and creating parachains (parallel chains) by bonding."
+            },
+            {
+                "id": "7",
+                "symbol": "USDT",
+                "name": "Tether",
+                "info": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of dollars in reserves that is equal to the number of USDT in circulation. Originally launched in July 2014 as Realcoin, a second-layer cryptocurrency token built on top of Bitcoin’s blockchain through the use of the Omni platform, it was later renamed to USTether, and then, finally, to USDT. In addition to Bitcoin’s, USDT was later updated to work on the Ethereum, EOS, Tron, Algorand, and OMG blockchains. The stated purpose of USDT is to combine the unrestricted nature of cryptocurrencies — which can be sent between users without a trusted third-party intermediary — with the stable value of the US dollar."
+            },
+            {
+                "id": "8",
+                "symbol": "XRP",
+                "name": "XRP",
+                "info": "To begin with, it’s important to understand the difference between XRP, Ripple and RippleNet. XRP is the currency that runs on a digital payment platform called RippleNet, which is on top of a distributed ledger database called XRP Ledger. While RippleNet is run by a company called Ripple, the XRP Ledger is open-source and is not based on blockchain, but rather the previously mentioned distributed ledger database. The RippleNet payment platform is a real-time gross settlement (RTGS) system that aims to enable instant monetary transactions globally. While XRP is the cryptocurrency native to the XRP Ledger, you can actually use any currency to transact on the platform. While the idea behind the Ripple payment platform was first voiced in 2004 by Ryan Fugger, it wasn’t until Jed McCaleb and Chris Larson took over the project in 2012 that Ripple began to be built (at the time, it was also called OpenCoin)."
+            },
+            {
+                "id": "9",
+                "symbol": "LTC",
+                "name": "Litecoin",
+                "info": "Litecoin (LTC) is a cryptocurrency that was designed to provide fast, secure and low-cost payments by leveraging the unique properties of blockchain technology. The cryptocurrency was created based on the Bitcoin (BTC) protocol, but it differs in terms of the hashing algorithm used, hard cap, block transaction times and a few other factors. Litecoin has a block time of just 2.5 minutes and extremely low transaction fees, making it suitable for micro-transactions and point-of-sale payments. Litecoin was released via an open-source client on GitHub on Oct. 7, 2011, and the Litecoin Network went live five days later on Oct. 13, 2011. Since then, it has exploded in both usage and acceptance among merchants and has counted among the top ten cryptocurrencies by market capitalization for most of its existence. The cryptocurrency was created by Charlie Lee, a former Google employee, who intended Litecoin to be a 'lite version of Bitcoin,' in that it features many of the same properties as Bitcoin—albeit lighter in weight."
+            },
+            {
+                "id": "10",
+                "symbol": "DOGE",
+                "name": "Dogecoin",
+                "info": "Dogecoin (DOGE) is based on the popular 'doge' Internet meme and features a Shiba Inu on its logo. The open-source digital currency was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia, and was forked from Litecoin in December 2013. Dogecoin's creators envisaged it as a fun, light-hearted cryptocurrency that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme. Tesla CEO Elon Musk posted several tweets on social media that Dogecoin is his favorite coin."
+            }
+        ]
+    }
+}

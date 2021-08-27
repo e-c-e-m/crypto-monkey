@@ -1,0 +1,25 @@
+.header {
+    display: grid;
+    grid-template-rows: 100%;
+    justify-items: center;
+}
+.menu-logo {
+    height: 200px;
+    width: 200px;
+}
+.menu-logo:hover {
+    cursor:pointer;
+}
+.menu-link {
+    border: none;
+    text-decoration: none;
+    &:hover {
+        color: $hover-color;
+        cursor: pointer;
+    }
+}
+@media screen and (max-width: 767px) {
+    .menu-link {
+        padding-top: 15px;
+    }
+}

@@ -1,0 +1,34 @@
+.dashboard {
+  @include grid-center;
+    height: auto;
+    width: auto;
+}
+.information-container {
+    margin-top: 10px;
+    text-align: center;
+    @include flex-align-justify(center, center);
+    flex-direction: column;
+    width: 700px;
+    .information-title {
+        margin-bottom: 15px
+    }
+    .information-img {
+        height: 300px;
+        width: 300px;
+    }
+}
+.chart-container {
+   margin-bottom: 20px;
+   width: 700px;
+}
+.chart {
+    width: 700px;
+}
+@media screen and (max-width: 767px) {
+    .chart-container {
+        width: 400px;
+    }
+    .information-container {
+        width: 300px;
+    }
+}
